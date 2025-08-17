@@ -13,7 +13,7 @@
 * 🚫 **Tidak bisa saat combat**
 * 🚫 **Tidak bisa di saat berenang**
 * 🚫 **Tidak bisa saat jatuh / ragdoll**
-⚙️ Semua bisa diatur di Config.lua
+*⚙️ Semua bisa diatur di Config.lua
 
 ## 📊 Performance
 
